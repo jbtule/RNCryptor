@@ -784,6 +784,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "RNCryptorTests/RNCryptorTests-Info.plist";
 				PRODUCT_NAME = RNCryptorTests;
+				TEST_AFTER_BUILD = YES;
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Debug;
@@ -800,6 +801,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "RNCryptorTests/RNCryptorTests-Info.plist";
 				PRODUCT_NAME = RNCryptorTests;
+				TEST_AFTER_BUILD = YES;
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;
