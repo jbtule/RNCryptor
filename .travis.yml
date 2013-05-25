@@ -1,1 +1,3 @@
-language: objective-c	
+language: objective-c
+script:
+  - ~/travis-utils/osx-cibuild.sh -target "RNCryptorTests"	
